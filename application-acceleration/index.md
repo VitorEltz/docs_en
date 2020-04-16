@@ -1,6 +1,6 @@
 # Application **Acceleration**
 
-This is the service of accelerating web applications and APIs through protocol optimizations and the management of the different requirements of dynamic content.
+This is the service of accelerating web applications and **APIs** through protocol optimizations and the management of the different requirements of dynamic content.
 
 Through Application Acceleration you can configure advanced cache by path rules that allow granular caching, content segmentation and cache policies based on criteria such as name/value of Cookies and Query Strings, as well as features such as Bypass Cache, Forward Cookies and support for POST/PUT and other HTTP methods.
 
